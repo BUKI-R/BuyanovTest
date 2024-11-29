@@ -1,0 +1,11 @@
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\bin\Debug\net8.0\InspectorLib.deps.json
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\bin\Debug\net8.0\InspectorLib.dll
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\bin\Debug\net8.0\InspectorLib.pdb
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\InspectorLib.AssemblyInfo.cs
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\InspectorLib.dll
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\refint\InspectorLib.dll
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\InspectorLib.pdb
+C:\Users\BUKI\source\repos\UotoH\InspectorLib\obj\Debug\net8.0\ref\InspectorLib.dll

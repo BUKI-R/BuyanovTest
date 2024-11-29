@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UotoH", "UotoH\UotoH.csproj", "{7A13FB63-CDFC-43C8-BFD4-B96D67C53558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectorLib", "InspectorLib\InspectorLib.csproj", "{77305B7E-ECD2-4132-BA1F-2DC36CD53057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A13FB63-CDFC-43C8-BFD4-B96D67C53558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A13FB63-CDFC-43C8-BFD4-B96D67C53558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A13FB63-CDFC-43C8-BFD4-B96D67C53558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A13FB63-CDFC-43C8-BFD4-B96D67C53558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77305B7E-ECD2-4132-BA1F-2DC36CD53057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77305B7E-ECD2-4132-BA1F-2DC36CD53057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77305B7E-ECD2-4132-BA1F-2DC36CD53057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77305B7E-ECD2-4132-BA1F-2DC36CD53057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A081848B-A49A-4C7F-8BE3-467E93E0EBE1}
+	EndGlobalSection
+EndGlobal
