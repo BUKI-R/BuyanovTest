@@ -20,4 +20,5 @@ Console.WriteLine($"Сгенерированный госномер: {newNumber}
 Console.Write($"\r\nВведите имя нового сотрудника: ");
 string Newhumen = Console.ReadLine();
 Console.WriteLine($"Добавление сотрудника {Newhumen}");
+proverc = FunctionInsp.AddWorker(Newhumen);
 Console.WriteLine("Список сотрудников: " + string.Join(", ", FunctionInsp.GetWorkers()));

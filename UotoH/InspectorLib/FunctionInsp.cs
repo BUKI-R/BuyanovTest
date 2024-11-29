@@ -7,7 +7,7 @@
         private static string GlavnInspector = "Васильев В.И.";
         private static List<string> sotrudnic = new List<string>(){"Иванов И.И.", "Зиронов Т.А.", "Миронов А.В.", "Васильев В.И."};
         
-        // создание методов стого по ТЗ
+        // создание методов строго по ТЗ
         public static string GetInspector() => GlavnInspector;
 
         public static string GetCarInspection() => AutoInspect;
